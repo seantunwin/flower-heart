@@ -19,7 +19,7 @@ To create a new image with Photoshop CS5 utilizing masking techniques with smart
 + [Lilly Pad Flower](http://www.pexels.com/photo/1483/)
 + [Blurry Clouds](http://www.pexels.com/photo/1250/)
 
-_Note: These images are [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/) as per [http://www.pexels.com/photo-license/](http://www.pexels.com/photo-license/). See [Licenses](#licences) at the bottom of this document for more information._
+_Note: These images are [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/) as per [http://www.pexels.com/photo-license/](http://www.pexels.com/photo-license/). See [Licenses](#licenses) at the bottom of this document for more information._
 
 ## Getting Started
 
