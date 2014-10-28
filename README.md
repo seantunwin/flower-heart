@@ -19,8 +19,6 @@ To create a new image with Photoshop CS5 utilizing masking techniques with smart
 + [Lilly Pad Flower](http://www.pexels.com/photo/1483/)
 + [Blurry Clouds](http://www.pexels.com/photo/1250/)
 
-_Tip: Right Click to `Save Link As` or your broswer equivalent_
-
 _Note: These images are [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)._
 
 ## Getting Started
@@ -32,19 +30,19 @@ _Tip: Create a new folder within our project folder named 'assets' and put the i
 
 #### Create a new Photoshop document
 
-1 From the Menu, go to File -> New then set the dimensions to 750px.
-2 Name the document `flower-heart-01`
+1. From the Menu, go to `File -> New` then set the dimensions to `750` poxels.
+2. Name the document `flower-heart-01`
 
 ![Create New File](img/new-file.png)
 
-3 Click Ok
-4 From the Menu, go to File -> Save As and save the .psd into our project folder
+3 Click `Ok`
+4 From the Menu, go to `File -> Save As` and save the `.psd` into our project folder
 
-_Tip: I like to name my files with a numbered suffix._
+_Tip: I like to name my files with a numbered suffix in case I create duplicates._
 
 #### Open Images as Smart Objects
 
-1. From the Menu, go to File -> Open As Smart Object
+1. From the Menu, go to `File -> Open As Smart Object`
 2. Select the flower image.
     + A new layer will be created with the flower as a smart object.
 3. Repeat steps 1 and 2 for the clouds image
@@ -56,11 +54,13 @@ _Tip: I like to name my files with a numbered suffix._
 
 + Select the `flower` layer
 + Select the Move Tool (`V`) and position the flower so that it is close to horizontal center and just slightly lower than vertical middle
-    + ![Flower Position](img/flower-position.jpg)
+
+![Flower Position](img/flower-position.jpg)
+
 + Select the Marquee Tool (`M`).
     + Make sure it is set to Elliptical Marquee
-        + _Tip: if you have to change it, click and hold the Tool from the Tools panel so that the inner panel opens and select `Elliptical Marquee Tool`, or simply press `Shift` + `M` until it displays.
-+ Set the Feather to 50 pixels from the Tool Options bar
+        + _Tip: if you have to change it, click and hold the Tool from the Tools panel so that the inner panel opens and select `Elliptical Marquee Tool`, or simply press `Shift` + `M` until it displays._
++ Set the Feather to `50` pixels from the Tool Options bar
 
 ![Marquee Feather](img/marquee-feather.png)
 
@@ -70,7 +70,7 @@ _Tip: I like to name my files with a numbered suffix._
 
 #### Create Layer Mask
 
-+ With the Selection still enabled, from the Menu go to Layer -> Layer Mask -> Reveal Selection
++ With the Selection still enabled, from the Menu go to `Layer -> Layer Mask -> Reveal Selection`
 
 #### Create Paths
 
@@ -78,7 +78,7 @@ _Tip: I like to name my files with a numbered suffix._
 + From the Tool Options bar select the Heart shape. It should be included with the default shapes.
 + From the Tool Options bar turn the Paths option on
 
-![Custom Shape Options](img/custom-shape-options)
+![Custom Shape Options](img/custom-shape-options.png)
 
 + Hold `Shift` then click and drag a heart shape so it fills most of the canvas area
 
@@ -88,22 +88,22 @@ _Tip: If your shape is not exactly where you want it to be, press `A` for the Pa
 
 #### Create Vector Mask
 
-+ While still on the `flower` layer and having the path outline still displayed, from the Menu go to Layer -> Vector Mask -> Current Path
++ While still on the `flower` layer and having the path outline still displayed, from the Menu go to `Layer -> Vector Mask -> Current Path`
 
 --------------------------
 
-We are now finished with the `flower` layer and will move on to the `clouds` layer
+We are now finished with the `flower` layer and will move on to the `clouds` layer.
 
 ---------------------------
 
 #### Create another Vector Mask
 
 + From the Layers panel  turn on the visibility of the `clouds` layer
-+ If you want to feel free to Move (`V`) the layer so that the blend of colors feels right to you.
-+ From the Layers panel, click the Paths tab (if you don't see it, from the Menu go to Window -> Paths). There should be the heart path there named `Work Path`.
-+ Click the path. Do NOT Ctrl (Cmd) + click.
++ If you want to feel free to Move (`V`) the layer so that the blend of colors feels right to you
++ From the Layers panel, click the Paths tab (if you don't see it, from the Menu go to `Window -> Paths`). There should be the heart path there named `Work Path`
++ Click the path. Do NOT Ctrl (Cmd) + click
 + Go back to the Layers tab and ensure the `clouds` layer is selected
-+ From the Menu go to Layer -> Vector Mask -> Current Path
++ From the Menu go to `Layer -> Vector Mask -> Current Path`
 
 ### Final Touches
 
@@ -111,7 +111,7 @@ We are now finished with the `flower` layer and will move on to the `clouds` lay
 + From the Layers tab, create a new Layer. Name it `heartstroke`.
 + From the Paths tab, Ctrl (Cmd) + click the `Work Path`. This will create a selection from the path
 + Go back to the Layers tab and ensure the `heartstroke` layer is selected
-+ From the Menu go to Edit -> Stroke
++ From the Menu go to `Edit -> Stroke`
     + Choose 2 pixels for the Stroke Width
     + Choose `#cccccc` for the color
     + Select `Inside` for the Location
@@ -162,5 +162,5 @@ We have created sweet looking heart shaped image with a flower inside using both
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-&copy; 2014 Sean T. Unwin
+&copy; 2014 [@seantunwin](https://twitter.com/seantunwin)
 
