@@ -1,10 +1,29 @@
-# Using Masking Techniques on a Single Layer
+# How To Use a Layer Mask and a Vector Mask Together on a Single Layer
 
 A Photoshop CS5 tutorial on how to use a Layer Mask and a Vector Mask on the same layer.
 
 ## Objective
 
-To create a new image with Photoshop CS5 utilizing masking techniques with smart objects and doing so with minimal amount of layers.
+To create a new image with Photoshop CS5 utilizing masking techniques with smart objects and doing so with a minimal amount of layers.
+
+## Synopsis
+
+We have an image of a flower that we want to use but we don't want all of the background in the image. We could use a Layer Mask to hide the background and leave only the foreground of the flower.
+
+Then we also want that masked flower image to be included inside the shape of a heart. We could use a path to create the heart and use that path as a Vector Mask.
+
+Masking the background, as opposed to simply deleting it, means that it is non-destructive -- you keep the image in it's entirety, but only use the portion that you want.
+
+## Background
+
+* A Vector Mask is made with Paths.
+* A Layer Mask is made with Channels.
+
+* Paths are Vectors.
+* Channels are Rastorized.
+
+* Example of a Path is made with the Pen tool.
+* Example of a Channel is made with a Selection and then Filled with pure Achromatic Colors (Black, White, or Greys).
 
 ---------------------
 ## Result
