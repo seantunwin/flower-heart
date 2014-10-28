@@ -175,6 +175,8 @@ _Tip: Edit the black spots from the flower using a combination of each or any of
 
 We have created sweet looking heart shaped image with a flower inside using both Layer Masks and Vector Masks as well as adding some subtle highlights.
 
+[Download the PSD](psd/flower-heart-01.psd.zip)
+
 ## Licenses
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
@@ -183,7 +185,7 @@ The text of this file [README.md](README.md) is licensed under a [Creative Commo
 
 ![Creative Commons Zero - Public Domain Dedication](https://i.creativecommons.org/p/zero/1.0/88x31.png)
 
-Any and all images (`.png`, `.jpg`) and Photoshop documents (`.psd') are licenced under [Creative Commons Zero - Public Domain Dedication ](https://creativecommons.org/publicdomain/zero/1.0/).
+Any and all images (`.png`, `.jpg`) and Photoshop documents (`.psd`) are licenced under [Creative Commons Zero - Public Domain Dedication ](https://creativecommons.org/publicdomain/zero/1.0/).
 
 &copy; 2014 [@seantunwin](https://twitter.com/seantunwin)
 
