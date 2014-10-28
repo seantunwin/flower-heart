@@ -160,7 +160,11 @@ We have created sweet looking heart shaped image with a flower inside using both
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+The text of this file [README.md](README.md) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+![Creative Commons Zero - Public Domain Dedication](https://i.creativecommons.org/p/zero/1.0/88x31.png)
+
+Any and all images (`.png`, `.jpg`) and Photoshop documents (`.psd') are licenced under [Creative Commons Zero - Public Domain Dedication ](https://creativecommons.org/publicdomain/zero/1.0/).
 
 &copy; 2014 [@seantunwin](https://twitter.com/seantunwin)
 
