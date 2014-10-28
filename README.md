@@ -9,7 +9,7 @@ To create a new image with Photoshop CS5 utilizing masking techniques with smart
 ---------------------
 ## Result
 
-![Flower Heart Image](flower-heart-01.jpg)
+![Flower Heart Image](flower-heart-01-med.jpg)
 
 ----------------------
 
@@ -34,7 +34,9 @@ _Tip: Create a new folder within our project folder named 'assets' and put the i
 
 1 From the Menu, go to File -> New then set the dimensions to 750px.
 2 Name the document `flower-heart-01`
-    + ![Create New File](img/new-file.png)
+
+![Create New File](img/new-file.png)
+
 3 Click Ok
 4 From the Menu, go to File -> Save As and save the .psd into our project folder
 
@@ -42,12 +44,13 @@ _Tip: I like to name my files with a numbered suffix._
 
 #### Open Images as Smart Objects
 
-1 From the Menu, go to File -> Open As Smart Object
-2 Select the flower image.
+1. From the Menu, go to File -> Open As Smart Object
+2. Select the flower image.
     + A new layer will be created with the flower as a smart object.
-3 Repeat steps 1 and 2 for the clouds image
-4 In the Layers panel drag the clouds layer below the flower layer and click the 'Eye' icon to hide the clouds layer
-    + ![Smart Objects](img/smart-objects.png)
+3. Repeat steps 1 and 2 for the clouds image
+4. In the Layers panel drag the clouds layer below the flower layer and click the 'Eye' icon to hide the clouds layer
+
+![Smart Objects](img/smart-objects.png)
 
 #### Create Circle Selection
 
@@ -58,9 +61,12 @@ _Tip: I like to name my files with a numbered suffix._
     + Make sure it is set to Elliptical Marquee
         + _Tip: if you have to change it, click and hold the Tool from the Tools panel so that the inner panel opens and select `Elliptical Marquee Tool`, or simply press `Shift` + `M` until it displays.
 + Set the Feather to 50 pixels from the Tool Options bar
-    + ![Marquee Feather](img/marquee-feather.png)
+
+![Marquee Feather](img/marquee-feather.png)
+
 + Hold `Shift` then click and drag out a circle over the flower
-    + ![Circle Marquee](img/circle-marquee.jpg)
+
+![Circle Marquee](img/circle-marquee.jpg)
 
 #### Create Layer Mask
 
@@ -71,9 +77,12 @@ _Tip: I like to name my files with a numbered suffix._
 + Select the Custom Shapes Tool (`U`)
 + From the Tool Options bar select the Heart shape. It should be included with the default shapes.
 + From the Tool Options bar turn the Paths option on
-+ ![Custom Shape Options](img/custom-shape-options)
+
+![Custom Shape Options](img/custom-shape-options)
+
 + Hold `Shift` then click and drag a heart shape so it fills most of the canvas area
-+ ![Heart Path](img/heart-path.jpg)
+
+![Heart Path](img/heart-path.jpg)
 
 _Tip: If your shape is not exactly where you want it to be, press `A` for the Path Selection Tool and then you can move the path around._
 
@@ -107,7 +116,8 @@ We are now finished with the `flower` layer and will move on to the `clouds` lay
     + Choose `#cccccc` for the color
     + Select `Inside` for the Location
     + Leave Blend Mode to `Normal` and Opacity at `100`
-    + ! [Stroke Settings](img/stroke-settings.png)
+
+![Stroke Settings](img/stroke-settings.png)
 
 #### Add Styles to the Stroke
 
@@ -115,9 +125,13 @@ We are now finished with the `flower` layer and will move on to the `clouds` lay
 + Double-click the `heartstroke` layer to bring up the Layer Styles dialog
 + Click the text for `Gradient Overlay` (not the checkbox) to show the gradient overlay options
 + Click the Gradient color bar
-    + ![Gradient Overlay Options](img/gradient-overlay-options.png)
+
+![Gradient Overlay Options](img/gradient-overlay-options.png)
+
 + Click the top right square on the gradient scale and set the Opacity to `50`%
-    + ![Gradient Options](img/gradient-options.jpg)
+
+![Gradient Options](img/gradient-options.jpg)
+
 + Click the bottom left square on the gradient scale and set the color to `#656565`
 + Click Ok
 
@@ -145,6 +159,7 @@ We have created sweet looking heart shaped image with a flower inside using both
 ## LIcense
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 &copy; 2014 Sean T. Unwin
